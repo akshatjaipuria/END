@@ -1,5 +1,5 @@
 # Session 4 - PyTorch
-Use this as a [reference ](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/2 - Upgraded Sentiment Analysis.ipynb). 
+Use this as a [reference](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/2%20-%20Upgraded%20Sentiment%20Analysis.ipynb). 
 
 Change this code in such a way that:
 
