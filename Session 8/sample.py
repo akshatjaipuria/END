@@ -463,3 +463,16 @@ b = 21
 
 result = a**2 + b**2
 print(result)
+
+# Write a python function to concat the input strings and there's also a choice for seperator
+
+def con_str(*args, sep = ' '):
+  return sep.join(args)
+
+# Write a program to print all the even numbers in a range
+
+r1, r2 = 1, 28
+
+for _ in range(r1, r2+1):
+  if _%2 == 0:
+    print(_)
